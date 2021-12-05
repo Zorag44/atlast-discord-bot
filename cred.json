@@ -1,3 +1,12 @@
 {
-  #google creds
+  "type": "service_account",
+  "project_id": "xx",
+  "private_key_id": "xx",
+  "private_key": "-----BEGIN PRIVATE KEY-----xx-----END PRIVATE KEY-----\n",
+  "client_email": "xx",
+  "client_id": "xx",
+  "auth_uri": "xx",
+  "token_uri": "xx",
+  "auth_provider_x509_cert_url": "xx",
+  "client_x509_cert_url": "xx"
 }
