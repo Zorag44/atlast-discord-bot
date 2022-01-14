@@ -1,2 +1,2 @@
 # atlast-discord-bot
-## not worth reading yet
+## click the link to add it to your server https://bit.ly/3nrTzYZ 
